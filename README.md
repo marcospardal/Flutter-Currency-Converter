@@ -1,17 +1,6 @@
-# currency_converter
+# Currency Converter
 
-A new Flutter project.
+A simple currency converter. The app uses an api to search the current quote for each currency available.
 
-## Getting Started
+![app-1](https://user-images.githubusercontent.com/49342589/116579123-755f7000-a8e8-11eb-8a63-b49df1a5a1c4.png) ![app-2](https://user-images.githubusercontent.com/49342589/116579345-ac358600-a8e8-11eb-9f9e-bdfc77590076.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Currency-Converter
